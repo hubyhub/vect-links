@@ -8,7 +8,8 @@
 
 
 ## Filters
-[HOWTO create a duotone image-effect](https://css-tricks.com/using-svg-to-create-a-duotone-image-effect/)
+[HOWTO - Duotone image-effect](https://css-tricks.com/using-svg-to-create-a-duotone-image-effect/)
+[HOWTO - Duotone image-effect (Sara Soueidan)](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
 [SVG Filters Demo](https://yoksel.github.io/svg-filters/#/)
 
 
